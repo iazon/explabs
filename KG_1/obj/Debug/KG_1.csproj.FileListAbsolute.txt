@@ -1,0 +1,9 @@
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\bin\Debug\KG_1.exe.config
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\bin\Debug\KG_1.exe
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\bin\Debug\KG_1.pdb
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.csprojResolveAssemblyReference.cache
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.Form1.resources
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.Properties.Resources.resources
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.csproj.GenerateResource.Cache
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.exe
+c:\users\владислав\documents\visual studio 2013\Projects\KG_1\KG_1\obj\Debug\KG_1.pdb
